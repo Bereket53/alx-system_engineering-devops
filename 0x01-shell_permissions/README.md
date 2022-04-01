@@ -8,3 +8,4 @@
 7-everybody adds permission to owner, group owner and other users of hello
 8-James_Bond gives all the permissions to other users and none to the rest for hello
 9-John_Doe changes permission of user, group and others
+10-mirror_permissions sets the mode the same as olleh
